@@ -1,6 +1,6 @@
 ### Hi, I'm Angie Cortés 💻
 Welcome to my page!
-I'm Full-stack developer from :colombia:, Bogotá Colombia with experience in projects in: Html5, Css3, JavaScript, Jquery, Json, NodeJS, ExpressJS, Firebase, Angular, Reactjs, Git and GitHub.
+I'm Frontend developer from :colombia:, Bogotá Colombia with experience in projects in: Html5, Css3, JavaScript, Jquery, Json, NodeJS, ExpressJS, Firebase, Angular, Reactjs, Git and GitHub.
 
 
 
